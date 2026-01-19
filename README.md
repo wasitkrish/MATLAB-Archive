@@ -94,4 +94,4 @@ Copyright (c) 2026
 
 ---
 
-📌 *This repository represents my academic practice and learning using MATLAB during the second semester.*
+📌 *This repository represents my academic practice and learning using MATLAB across multiple semesters.*
